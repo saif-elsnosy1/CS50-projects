@@ -48,9 +48,5 @@ I'm continuously learning and improving my programming skills through hands-on p
 - GitHub: [@saif-elsnosy1](https://github.com/saif-elsnosy1)
 
 ---
-
-*This repository reflects my learning progress and foundational programming experience. More projects will be added as I continue learning.*
-
-⸻
-
 This repository reflects my learning progress and foundational programming experience. More projects will be added as I continue learning.
+———-
